@@ -9,4 +9,4 @@ checked that GitHub is compatible with UppMax, which it seemed to be. As a last 
 
 ## Captains log, 1502.18. - Project Description
 
-Today I've created a facebook group for communicating with the group. More importantly the project discription and (preliminary) title arrived today so I created a draft of the presentation using the project description and google drive. I also made it clear to the group that they are free to edit it if they wish. PS: Ideally the group would have created the presentation from scratch, however lack of time before the presentation in combination with poorly matching schedules did not allow this.
+Today I've created a facebook group for communicating with the group. More importantly the project discription and (preliminary) title arrived today so I created a draft of the presentation using the project description and google drive. I also made it clear to the group that they are free to edit it if they wish. PS: Ideally the group would have created the presentation from scratch together, however lack of time before the presentation in combination with poorly matching schedules did not allow this according to me.
