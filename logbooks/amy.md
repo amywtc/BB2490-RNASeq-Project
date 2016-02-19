@@ -15,15 +15,12 @@ We had the project instuction from Olof, and the following is the brief summary 
 
 Title:The effect of subsampling of large RNA-seq data sets on gene expression analysis
 
-Objective: 1. To find differentially expressed (DE) genes between inflammatory and noninflammatory human blood
-
-           2. Investigate the allelic bias for the individual samples
+Objective: 
+1. To find differentially expressed (DE) genes between inflammatory and noninflammatory human blood
+2. Investigate the allelic bias for the individual samples
            
-Data: Blood samples from 8 individuals, 2 samples per individual.
-
-      For each individual, one part of each sample was treated by LPS and one part was left untreated, thus resulting in 16 samples.
-      
-      8 samples treated with lipopolysaccharides (LPS) and 8 untreated in order to get an inflammatory response.
+Data: Blood samples from 8 individuals, 2 samples per individual. For each individual, one part of each sample was treated by LPS and
+one part was left untreated, thus resulting in 16 samples. 8 samples treated with lipopolysaccharides (LPS) and 8 untreated in order to get an inflammatory response.
       
 Hypothesis: Deep sequencing impairs the finding of the DE genes.
 
