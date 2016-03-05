@@ -30,3 +30,17 @@ Random sub samplings will be performed where only ~30-75% of the total data will
 
 We had meeting with Olof. TO reduce the memory and computational time required for mapping, we will only deal with three individuals but not 8. What we have to do before mapping to reference genome is to remove the adaptor from reads and check the quality of the reads so that we can remove the one with poor quality. We have little discussion about how to do subsampling and the idea is the sampling should be carried out after processing but before mapping.
 
+23/2/2016
+
+We had the data from Olof and started to look into and get familiar with them. Hugi and Sailendra came up with an idea how to do subsampling. We use the lane 1 from both flow cells, followed by lane 1 and 2, then 1,2,3 and finally all lanes. This allows us to perform and compare the result of using 25%, 50%, 75% and 100% of data.
+
+25/2/2016
+
+We ran TrimGalore with our data to autodetect and remove the adapters from the reads. It seems that it could remove some overrepresented kmer sequence at the end of the reads.
+
+4/3/2016
+
+We ran the remaining files today.
+
+
+
