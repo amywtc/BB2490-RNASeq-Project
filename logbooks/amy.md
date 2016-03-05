@@ -26,3 +26,7 @@ Hypothesis: Deep sequencing impairs the finding of the DE genes.
 
 Random sub samplings will be performed where only ~30-75% of the total data will be used in order to see how it affects the results.
 
+19/2/2016
+
+We had meeting with Olof. TO reduce the memory and computational time required for mapping, we will only deal with three individuals but not 8. What we have to do before mapping to reference genome is to remove the adaptor from reads and check the quality of the reads so that we can remove the one with poor quality. We have little discussion about how to do subsampling and the idea is the sampling should be carried out after processing but before mapping.
+
