@@ -40,7 +40,7 @@ We ran TrimGalore with our data to autodetect and remove the adapters from the r
 
 4/3/2016
 
-We ran the remaining files today.
+We ran the remaining files today. After discussion, we came up the subsampling idea, that is 
 
 
 
