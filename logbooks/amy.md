@@ -40,7 +40,10 @@ We ran TrimGalore with our data to autodetect and remove the adapters from the r
 
 4/3/2016
 
-We ran the remaining files today. After discussion, we came up the subsampling idea, that is 
+We ran the remaining files today. After discussion, we came up the subsampling idea, that is we first combine the each lane from two flow cells into an lane so as to reduce the mapping time. After we mapped the lanes individually, we can know the number of reads in each lane. The first subsample would use the same number of reads for all lanes. For the second subsample, we would cutoff readnumber for all lanes at the number of reads in the largest subset of SN10, and for the third subsample, we would cutoff readnumber for all lanes at the number of reads in the larfest subset of SN12 and the last subsample would include all reads. This can allow us to perform and compare the result of using 25%, 50%, 75% and 100% of data. We have listed all the tasks we have to achieve in this moment and each of us is responsible for one of the task. I am less familiar with programming so I will focus more on making the draft of the poster. I am going to use Affinity Designer to make the poster.
+
+5/3/2016
+
 
 
 
