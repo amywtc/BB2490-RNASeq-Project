@@ -44,6 +44,10 @@ We ran the remaining files today. After discussion, we came up the subsampling i
 
 5/3/2016
 
+This is my first time to use software to make poster. Today I watched many tutorial videos so as to get familiar with Affinity Designer and tried a bit to make a poster. I found that making poster with graphic software is not that hard. 
+
+7/3/2016
+
 
 
 
